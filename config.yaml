@@ -29,8 +29,8 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  # navTitleText: Cupper Theme
-  logoAlt: An alternative text description of the logo
+  navTitleText: Cool Stuff
+  logoAlt: cool stuff logo
   customCss:
     - css/custom_01.css
     - css/custom_02.css
