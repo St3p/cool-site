@@ -43,7 +43,10 @@ menu:
     - name: Home
       url: /
       weight: 1
-    - name: Blog
+    - name: basics
+      url: /basics/
+      weight: 2
+    - name: amigurrumi
       url: /post/
       weight: 2
     - name: Tags

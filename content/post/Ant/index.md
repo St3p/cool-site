@@ -1,15 +1,18 @@
 ---
-title: "Ant amigurrumi"
+title: "Ant"
 date: 2020-08-04T21:05:05-05:00
 tags: ["amigurrumi", " patterns", "ant"]
 ---
-
-
 SKILL LEVEL: :star::star::star:
 SIZE: 8" / 20 cm tall when made with the
 indicated yarn.
 
-![Ant Amigurrumi](/images/AntPattern/ant1.png)
+{{< figureCupper
+img="ant1.png"
+caption="Ant pattern"
+command="Resize"
+options="700x" >}}
+
 
 ## MATERIALS:
 * Light worsted weight yarn in red, blue, white and brown
@@ -224,7 +227,18 @@ Rnd 10: sc in next 3 st through both the left leg and the body, sc in next 21 st
 
 Rnd 11: skip 1 st on the leg, sc in next 3 leftover stitches of the leg, skip 1 st on the leg, sc in next 21 ston the body, skip 1 st on the leg, sc in next 3 leftover stitches on the leg, skip 1 st on the leg, sc in next 21 st on the body (picture 2) [48]
 
-![Picture 1](/images/AntPattern/antpic1.png) ![Picture 2](/images/AntPattern/antpic2.png)
+
+{{< figureCupper
+img="antpic1.png"
+caption="picture 1"
+command="Resize"
+options="700x" >}}
+
+{{< figureCupper
+img="antpic2.png"
+caption="picture 2"
+command="Resize"
+options="700x" >}}
 
 Rnd 12: sc in all 48 st [48]
 
@@ -256,8 +270,17 @@ Change to blue yarn. In the next round we’ll join 2 arms with the body. Make s
 
 Rnd 21: sc in next 3 st through both the left arm and the body, sc in next 7 st, dec, sc in next 7 st, sc in next 3 st through both the right arm and the body, sc in next 7 st, dec, sc in next 7 st (picture 3) [36]
 
+{{< figureCupper
+img="antpic3.png"
+caption="picture 3"
+command="Resize"
+options="700x" >}}
 
-![Picture 3](/images/AntPattern/antpic3.png) ![Picture 4](/images/AntPattern/antpic4.png)
+{{< figureCupper
+img="antpic4.png"
+caption="picture 4"
+command="Resize"
+options="700x" >}}
 
 Rnd 22: skip 1 st on the arm,sc in next 3 leftover stitches on the arm, skip 1 st on the arm, continue working on the body, sc in next 2 st, dec, sc in next 8 st, dec, sc in next st, skip 1 st on the arm, sc in next 3 leftover stitches on the arm, skip 1 st on the arm, continue working on the body, sc in next 2 st, dec, sc in next 7 st, dec, sc in next 2 st (picture 4) [32]
 
