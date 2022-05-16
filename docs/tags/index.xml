@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cupper</title>
+    <title>Tags on Cool Stuff</title>
     <link>https://cool-stuff-now.com/tags/</link>
-    <description>Recent content in Tags on Cupper</description>
+    <description>Recent content in Tags on Cool Stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Aug 2020 21:05:05 -0500</lastBuildDate><atom:link href="https://cool-stuff-now.com/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -31,6 +31,69 @@
       <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
       
       <guid>https://cool-stuff-now.com/tags/ant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>beginner</title>
+      <link>https://cool-stuff-now.com/tags/beginner/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://cool-stuff-now.com/tags/beginner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chain</title>
+      <link>https://cool-stuff-now.com/tags/chain/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://cool-stuff-now.com/tags/chain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>crochet</title>
+      <link>https://cool-stuff-now.com/tags/crochet/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://cool-stuff-now.com/tags/crochet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>giraffe</title>
+      <link>https://cool-stuff-now.com/tags/giraffe/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://cool-stuff-now.com/tags/giraffe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>single-crochet</title>
+      <link>https://cool-stuff-now.com/tags/single-crochet/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://cool-stuff-now.com/tags/single-crochet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>slip-stitch</title>
+      <link>https://cool-stuff-now.com/tags/slip-stitch/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://cool-stuff-now.com/tags/slip-stitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stitch</title>
+      <link>https://cool-stuff-now.com/tags/stitch/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://cool-stuff-now.com/tags/stitch/</guid>
       <description></description>
     </item>
     
