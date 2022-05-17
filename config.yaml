@@ -17,6 +17,7 @@ imaging:
   quality: 99
 
 params:
+
   description: A cool site with free crochet ideas and patterns
   homeMetaContent:  A cool site with free crochet ideas and patterns
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
@@ -29,7 +30,7 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  navTitleText: Cool Stuff
+  # navTitleText: Cool Stuff
   logoAlt: cool stuff logo
   customCss:
     - css/custom_01.css
@@ -37,6 +38,8 @@ params:
   customJs:
     - js/custom_01.js
     - js/custom_02.js
+  comments:
+        enabled: true
 
 menu:
   nav:
@@ -52,7 +55,6 @@ menu:
     - name: Tags
       url: /tags/
       weight: 3
-
 markup:
   defaultMarkdownHandler: goldmark
   goldmark:

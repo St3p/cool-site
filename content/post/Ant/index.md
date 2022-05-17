@@ -1,9 +1,9 @@
 ---
 title: "Ant"
 date: 2020-08-04T21:05:05-05:00
-tags: ["amigurrumi", " patterns", "ant"]
+tags: ["amigurrumi", " patterns", "ant", "free-crochet-patterns"]
 ---
-SKILL LEVEL: :star::star::star:
+SKILL LEVEL: ⭐⭐⭐
 SIZE: 8" / 20 cm tall when made with the
 indicated yarn.
 

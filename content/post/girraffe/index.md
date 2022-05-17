@@ -1,9 +1,9 @@
 ---
 title: "Giraffe"
 date: 2020-08-04T21:05:05-05:00
-tags: ["amigurrumi", " patterns", "giraffe"]
+tags: ["amigurrumi", " patterns", "giraffe", "free-crochet-patterns"]
 ---
-SKILL LEVEL: :star:
+SKILL LEVEL: ⭐
 SIZE: 16.5” / 42 cm tall when made with the
 indicated yarn.
 
