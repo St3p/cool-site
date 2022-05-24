@@ -1,5 +1,5 @@
 ---
-title: "Ant"
+title: "Free amigurrumi Pattern Ant"
 date: 2020-08-04T21:05:05-05:00
 tags: ["amigurrumi", " patterns", "ant", "free-crochet-patterns"]
 ---

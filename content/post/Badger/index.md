@@ -1,5 +1,5 @@
 ---
-title: "Badger"
+title: "Free amigurrumi Pattern Badger"
 date: 2020-08-04T21:05:05-05:00
 tags: ["amigurrumi", " patterns", "badger", "free-crochet-patterns"]
 ---
