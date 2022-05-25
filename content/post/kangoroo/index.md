@@ -1,5 +1,5 @@
 ---
-title: "Free amigurrumi Pattern kangoroo"
+title: "kangoroo"
 date: 2020-08-04T21:05:05-05:00
 tags: ["amigurrumi", " patterns", "kangoroo", "free-crochet-patterns"]
 ---

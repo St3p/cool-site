@@ -1,3 +1,3 @@
 ---
-title: Amigurrumi
+title: Amigurrumi free crochet patterns
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Free amigurrumi Pattern squirrel"
+title: "Squirrel"
 date: 2020-08-04T21:05:05-05:00
 tags: ["amigurrumi", " patterns", "squirrel", "free-crochet-patterns"]
 ---
