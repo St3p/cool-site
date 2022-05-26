@@ -1,8 +1,9 @@
 ---
-title: "Bunny"
-date: 2022-05-24T21:05:05-05:00
-tags: ["amigurrumi", " patterns", "Bunny", "free-crochet-patterns"]
+title: "bunny"
+date: 2020-08-04T21:05:05-05:00
+tags: ["amigurrumi", " patterns", "bunny", "free-crochet-patterns"]
 ---
+
 
 SKILL LEVEL: ⭐⭐
 SIZE: 6" / 15 cm tall when made with the indicated yarn.
